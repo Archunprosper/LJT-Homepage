@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+## Personal Details
+
 I am Junteng Liu, a first-year PhD candidate at the HKUST NLP Group, Hong Kong University of Science and Technology. I graduated from Shanghai Jiao Tong University in June 2024. My research focuses on natural language processing and machine learning.
 
 ## Research Interests
@@ -48,7 +50,7 @@ I am Junteng Liu, a first-year PhD candidate at the HKUST NLP Group, Hong Kong U
 
 - Zhiyuan Honor Scholarship, Shanghai Jiao Tong University
 
-## Contact
+## Contact Information
 
 - Email: [jliugi@connect.ust.hk](mailto:jliugi@connect.ust.hk)
 - GitHub: [Vicent0205](https://github.com/Vicent0205)
