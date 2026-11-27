@@ -9,7 +9,7 @@ redirect_from:
 
 # About
 
-I am **Junteng Liu** (刘钧腾), a first-year PhD candidate at the [Hong Kong University of Science and Technology (HKUST) NLP Group](https://hkust-nlp.github.io/), where I am pursuing a **Ph.D. in Computer Science (2024–Present)** under the supervision of **Professor Junxian He**. I received my **B.Eng. (2020–2024)** from **Shanghai Jiao Tong University (SJTU)** in June 2024, where I previously worked with Professor Junxian He during my undergraduate studies.
+I am **Junteng Liu**, a first-year PhD candidate at the [Hong Kong University of Science and Technology (HKUST) NLP Group](https://hkust-nlp.github.io/), where I am pursuing a **Ph.D. in Computer Science (2024–Present)** under the supervision of **Professor Junxian He**. I received my **B.Eng. (2020–2024)** from **Shanghai Jiao Tong University (SJTU)** in June 2024, where I previously worked with Professor Junxian He during my undergraduate studies.
 
 My research focuses on **natural language processing (NLP)** and **machine learning (ML)**. My research interests include:
 
